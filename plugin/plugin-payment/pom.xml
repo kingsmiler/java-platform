@@ -11,12 +11,10 @@
 		<dependency>
 			<groupId>com.whenling</groupId>
 			<artifactId>plugin-base</artifactId>
-			<version>1.0.0.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>com.whenling</groupId>
 			<artifactId>module-redis</artifactId>
-			<version>1.0.0.RELEASE</version>
 		</dependency>
 	</dependencies>
 </project>
