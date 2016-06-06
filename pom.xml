@@ -293,5 +293,6 @@
 		<module>plugin</module>
 		<module>module</module>
 		<module>extension</module>
+		<module>sample</module>
 	</modules>
 </project>
